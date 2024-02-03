@@ -1,0 +1,12 @@
+C:\Users\evryt\source\repos\AdvancedStratRulette\AdvancedStratRulette\bin\Debug\AdvancedStratRulette.exe.config
+C:\Users\evryt\source\repos\AdvancedStratRulette\AdvancedStratRulette\bin\Debug\AdvancedStratRulette.exe
+C:\Users\evryt\source\repos\AdvancedStratRulette\AdvancedStratRulette\bin\Debug\AdvancedStratRulette.pdb
+C:\Users\evryt\source\repos\AdvancedStratRulette\AdvancedStratRulette\obj\Debug\AdvancedStratRulette.csproj.AssemblyReference.cache
+C:\Users\evryt\source\repos\AdvancedStratRulette\AdvancedStratRulette\obj\Debug\AdvancedStratRulette.Form1.resources
+C:\Users\evryt\source\repos\AdvancedStratRulette\AdvancedStratRulette\obj\Debug\AdvancedStratRulette.Properties.Resources.resources
+C:\Users\evryt\source\repos\AdvancedStratRulette\AdvancedStratRulette\obj\Debug\AdvancedStratRulette.csproj.GenerateResource.cache
+C:\Users\evryt\source\repos\AdvancedStratRulette\AdvancedStratRulette\obj\Debug\AdvancedStratRulette.csproj.CoreCompileInputs.cache
+C:\Users\evryt\source\repos\AdvancedStratRulette\AdvancedStratRulette\obj\Debug\AdvancedStratRulette.exe
+C:\Users\evryt\source\repos\AdvancedStratRulette\AdvancedStratRulette\obj\Debug\AdvancedStratRulette.pdb
+C:\Users\evryt\source\repos\AdvancedStratRulette\AdvancedStratRulette\obj\Debug\AdvancedStratRulette.Form2.resources
+C:\Users\evryt\source\repos\AdvancedStratRulette\AdvancedStratRulette\obj\Debug\AdvancedStratRulette.Form3.resources
