@@ -1,0 +1,6 @@
+You are a Rabid Chihuahua, you must hold 'W' at all times
+If there are less than 3 players alive on your team, you have to emote
+For every support kill you get, you have to type an Overwatch 2 Hot Take in chat
+If you are the last man standing, you have to run away to a safe place and beg for mercy in chat
+If you get too close to an enemy, you start orbiting them. You have to run around them until you kill them or if another suitable enemy shows up
+After your first death, mirror pick the enemy Tank
