@@ -44,13 +44,13 @@ namespace AdvancedStratRulette
                 switch (roleSelector)
                 {
                     case 1:
-                        File.AppendAllText(dpsFilePath, roleStratEnter);
+                        File.AppendAllText(tankFilePath, roleStratEnter);
                         break;
                     case 2:
-                        File.AppendAllText(supportFilePath, roleStratEnter);
+                        File.AppendAllText(dpsFilePath, roleStratEnter);
                         break;
                     case 3:
-                        File.AppendAllText(tankFilePath, roleStratEnter);
+                        File.AppendAllText(supportFilePath, roleStratEnter);
                         break;
                 }
             }
